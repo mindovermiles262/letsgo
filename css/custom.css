@@ -1,0 +1,18 @@
+.navbar-container {
+  flex-grow: 1;
+}
+
+.navbar {
+  font-size: 1.5em;
+}
+
+.grow:hover{
+  font-weight: bolder;
+  transition: all .1s ease-out;
+  transform: scale(1.1);
+}
+
+/* header.masthead {
+  padding-top: 5rem;
+  padding-bottom: 19rem;
+} */
