@@ -8,11 +8,34 @@
 
 .grow:hover{
   font-weight: bolder;
-  transition: all .1s ease-out;
+  transition: all .2s ease-in-out;
   transform: scale(1.1);
 }
 
-/* header.masthead {
-  padding-top: 5rem;
-  padding-bottom: 19rem;
-} */
+.light-gray {
+  color: lightslategray;
+  opacity: 0.55;
+}
+
+.smaller-text {
+  font-size: 0.8em;
+}
+
+.no-list-style {
+  list-style: none;
+  padding-left: 0;
+}
+
+.mb-01 {
+  margin-bottom: 0.2rem !important;
+}
+
+.clients-col {
+    -webkit-columns: 0.5em 2; /* Chrome, Safari, Opera */
+    -moz-columns: 0.5em 2; /* Firefox */
+    columns: 0.5em 2;
+}
+
+.clients-col li {
+  overflow: auto;
+}
