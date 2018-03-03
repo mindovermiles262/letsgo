@@ -1,3 +1,7 @@
+.bg-light {
+  background-color: #f5f6f7 !important;
+}
+
 .navbar-container {
   flex-grow: 1;
 }
@@ -14,7 +18,7 @@
 
 .light-gray {
   color: lightslategray;
-  opacity: 0.55;
+  opacity: 0.70;
 }
 
 .smaller-text {
@@ -38,4 +42,8 @@
 
 .clients-col li {
   overflow: auto;
+}
+
+#cta-text {
+  text-shadow: 1px 1px #2a2a2a;
 }
