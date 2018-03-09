@@ -39,20 +39,17 @@
 }
 
 .experience {
-  width: 350px;
+  width: 300px;
   margin-right: auto;
   margin-left: auto;
   display: block;
 }
 
-.clients-col {
-    -webkit-columns: 0.5em 2; /* Chrome, Safari, Opera */
-    -moz-columns: 0.5em 2; /* Firefox */
-    columns: 0.5em 2;
-}
-
-.clients-col li {
-  overflow: auto;
+.prev-clients {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
 }
 
 #cta-text {
