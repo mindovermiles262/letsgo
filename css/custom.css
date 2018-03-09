@@ -38,6 +38,13 @@
   margin-bottom: 0.2rem !important;
 }
 
+.experience {
+  width: 350px;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+
 .clients-col {
     -webkit-columns: 0.5em 2; /* Chrome, Safari, Opera */
     -moz-columns: 0.5em 2; /* Firefox */
